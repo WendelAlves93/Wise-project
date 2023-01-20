@@ -1,6 +1,6 @@
 # README
 
-## Projeto: Controle de Estufa com Arduino
+## Projeto: Controle de Estufa (EM DESENVOLVIMENTO)
 
 Este projeto tem como objetivo controlar o nível de água em uma caixa d'água utilizando dois sensores de boia. Quando o nível de água estiver baixo, a bomba de poço será acionada para encher a caixa d'água. Além disso, também há um sensor de umidade do solo que aciona uma válvula solenoide para fornecer água às plantas quando necessário. O projeto também utiliza um sensor DHT11 para medir a umidade e temperatura do ar.
 
