@@ -1,13 +1,12 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Apoiado por
+## Patrocínio
 
 Esse projeto tem apoio das seguintes empresas:
 
-- Advantech
-- Senai
+- [Advantech](https://www.advantech.com/pt-br)
+- [Senai](https://www7.fiemg.com.br/SENAI)
+
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsilJ58-CWZsVXKiMju37BQl-DcuQUzTQFrH4XT85Jw&s)
 
 
 # Projeto
