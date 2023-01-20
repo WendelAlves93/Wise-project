@@ -2,7 +2,7 @@
 #include <RHGenericDriver.h>
 
 
-const int rf_rx_pin = 8;    // Pin for RF receiver
+const int rf_rx_pin = 8;   
 RH_ASK driver(2000, rf_rx_pin);
 
 void setup() {
