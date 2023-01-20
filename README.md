@@ -31,4 +31,4 @@ As informações coletadas pelos sensores são enviadas para outro Arduino usand
 Sinta-se livre para contribuir com este projeto enviando pull requests no Github.
 
 ## Licença
-Este projeto está licenciado sob a licença [Nome da Licença]. Consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
+Este projeto está licenciado sob a licença GNU GPL v3. Consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais detalhes.
