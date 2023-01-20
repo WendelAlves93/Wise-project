@@ -6,7 +6,11 @@ Este projeto tem como objetivo controlar o nível de água em uma caixa d'água 
 
 As informações coletadas pelos sensores são enviadas para outro Arduino usando o protocolo LoRa. O lado receptor tem um receptor LoRa que recebe as informações e as envia para o Arduino, que as envia para a nuvem e apresenta os dados em uma dashboard.
 
-[link] - Apresentação do PowerPoint(EM DESENVOLVIMENTO)
+## Lista de tarefas
+_[] Desenvolvimento do prototipo (HARDWARE)
+_[x] Desenvolvimento do prototipo (SOFTWARE)
+_[] Finalizar apresentação 
+
 ## Requisitos
 - Arduino Uno ou similar
 - Módulo LoRa
