@@ -9,8 +9,8 @@ Esse projeto tem apoio das seguintes empresas:
 ![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsilJ58-CWZsVXKiMju37BQl-DcuQUzTQFrH4XT85Jw&s)
 
 
-# Projeto
-## Controle de Estufa (EM DESENVOLVIMENTO)
+# Projeto(EM DESENVOLVIMENTO)
+## Controle de Estufa
 
 Este projeto tem como objetivo controlar o nível de água em uma caixa d'água utilizando dois sensores de boia. Quando o nível de água estiver baixo, a bomba de poço será acionada para encher a caixa d'água. Além disso, também há um sensor de umidade do solo que aciona uma válvula solenoide para fornecer água às plantas quando necessário. O projeto também utiliza um sensor DHT11 para medir a umidade e temperatura do ar.
 
@@ -54,7 +54,7 @@ Por favor, siga o `código de conduta` desse projeto.
 
 ## Documentação
 
-[Apresentação do PowerPoint](https://link-da-documentação)
+[Apresentação do PowerPoint](https://github.com/WendelAlves93/Wise-project/blob/main/ModeloSENAI-HOJE.pdf)
 
 
 ## FAQ
